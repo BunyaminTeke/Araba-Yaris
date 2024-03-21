@@ -1,0 +1,17 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\bin\Debug\net8.0-windows\ArabaYaris.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\bin\Debug\net8.0-windows\ArabaYaris.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\bin\Debug\net8.0-windows\ArabaYaris.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\bin\Debug\net8.0-windows\ArabaYaris.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\bin\Debug\net8.0-windows\ArabaYaris.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\refint\ArabaYaris.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ref\ArabaYaris.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\ArabaYaris\ArabaYaris\obj\Debug\net8.0-windows\ArabaYaris.Resource1.resources
